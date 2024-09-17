@@ -1,5 +1,5 @@
 {
-  "regionUp_up": [
+  "regionGB_up": [
     {
  "version":"GBWhatsApp V20.86",
  "title":"Aero Sudah Terbaru",
