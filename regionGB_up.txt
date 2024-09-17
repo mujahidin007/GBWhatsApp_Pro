@@ -1,7 +1,7 @@
 {
   "regionGB_up": [
     {
- "version":"GBWhatsApp V20.86",
+ "version":"GBWhatsApp V20.85",
  "title":"Aero Sudah Terbaru",
  "description":"Update Available for Aero
 
