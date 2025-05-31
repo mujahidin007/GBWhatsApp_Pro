@@ -1,23 +1,22 @@
 {
   "regionGB_up": [
     {
- "version":"𝗟𝗔𝗧𝗘𝗦𝗧 𝗨𝗣𝗗𝗔𝗧𝗘
-𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗣𝗿𝗼 - 𝗩𝟮𝟭.𝟴𝟳",
+ "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗟𝗔𝗧𝗘𝗦𝗧
+𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 - 𝘃𝟮𝟭.𝟵𝟬",
  "title":"Aero Sudah Terbaru",
- "description":"WhatsApp Base:  2.25.11.79
+ "description":"WhatsApp Base:  2.25.15.80
 
-📜[New] Enable the ability to send direct messages to people who viewed your status.
-📜[New] Enable the ability to turn off video before accepting incoming video calls.
-📜[New] Enable the ability to add social media links to your profile.
-📜[New] Enable the ability to automatically post statuses to other Meta platforms, such as Instagram and Facebook.
-📜[New] Enable many other features.
-📜[Improved] Anti-ban protection.
+🛠 [Fixed] the problem where fingerprint was requested twice when locking WhatsApp.
+🛠 [Fixed] the issue where the profile picture was not hidden from the home screen.
+🛠 [Fixed] the issue where the search icon did not appear in the Status and Calls tabs when the new search bar was enabled on the home screen.
+🛠 [Fixed] the inability to change the notification bar background color and navigation bar background color in chats, groups, or channels.
+🛠 [Fixed] the issue preventing downloading and changing emoji styles.
  Stability and performance improvements.
  [More] other new features. Enjoy and discover what's new for yourself!
 
 🔗 More fixes and other improvements.
  ",
-"download":"https://regionmod0.blogspot.com/2025/05/gbwhatsapp-pro-v2180-latest-update.html"
+"download":"https://youtu.be/znaVW_mR_Gw?si=IE7BzYpYRIwNO7oq"
 }
   ]
 }
