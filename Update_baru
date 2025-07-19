@@ -1,14 +1,6 @@
 {
-  "versionCode": 10,
+  "versionCode": 2147483647,
   "versionName": "1.0",
-  "Msg": "New update is available, to continue in our app please update it.
-
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-
-Thanks for using",
+  "Msg": "🚀 New update is available!\n\nTo keep enjoying a smooth experience, please update the app.\n\n✨ **What's new:**\n- ⚡ Performance improvements\n- 🐛 Bug fixes\n- 🆕 New features introduced\n- 🔧 Other minor changes\n\nThank you for using our app! 💙",
   "downloadLink": "https://t.me/@smalicode"
-  }
+}
