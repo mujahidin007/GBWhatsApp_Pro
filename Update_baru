@@ -3,6 +3,12 @@
   "versionName": "2.25.21.82",
   "Msg": "GBWhatsApp Pro V22.40
 
-🚀 New update is available!\n\nTo keep enjoying a smooth experience, please update the app.\n\n✨ **What's new:**\n- ⚡ Performance improvements\n- 🐛 Bug fixes\n- 🆕 New features introduced\n- 🔧 Other minor changes\n\nThank you for using our app! 💙",
+🚀 New update is available!\n\nTo keep enjoying a smooth experience, please update the app.\n\n✨ **What's new:**\n- 🆕 [New] You can now send videos to chats or status in high quality.
+🆕 [New] Added support for many other new features.
+🛠 [Fixed] the divider line between conversations on the main screen.
+🛠 [Fixed] the custom media auto-download settings for chats and groups.
+🛠 [Fixed] the ✂️ video trimming feature for status.
+🛠 [Fixed] the hiding of archived chats from the main screen.
+🛡 [Improved] Anti-ban protection.",
   "downloadLink": "https://youtu.be/0QBT4nCUiYA"
 }
