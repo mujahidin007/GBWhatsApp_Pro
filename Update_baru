@@ -1,14 +1,12 @@
 {
   "versionCode": 2147483647,
   "versionName": "2.25.21.85",
-  "Msg": "GBWhatsApp Pro V22.56F
+  "Msg": "GBWhatsApp Pro V22.71
 
-🚀 Update Terbaru Tersedia!\n\nMemperbaiki Masalah Tampilan Tombol-Tombol Di Pengaturan.\n\n✨ **What's new:**\n- 🆕 [New] You can now send videos to chats or status in high quality.
-🆕 [New] Added support for many other new features.
-🛠 [Fixed] the divider line between conversations on the main screen.
-🛠 [Fixed] the custom media auto-download settings for chats and groups.
-🛠 [Fixed] the ✂️ video trimming feature for status.
-🛠 [Fixed] the hiding of archived chats from the main screen.
+✅ [Fixed] Fixed an issue with device linking.
+✅ [Fixed] Permanently fixed app freezing issue.
+✅ [Fixed] Fixed duplicate search icon when hiding the new search bar on the home screen.
+😀 Significantly improved anti-ban protection.
 🛡 [Improved] Anti-ban protection.",
-  "downloadLink": "https://youtu.be/UCYkzXmMIMc?si=H444m7pBp1ApJr83"
+  "downloadLink": "https://youtu.be/9xuJcksiFNU"
 }
