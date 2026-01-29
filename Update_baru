@@ -1,13 +1,11 @@
 {
   "versionCode": 2147483647,
-  "versionName": "2.25.36.73",
-  "Msg": "GBWhatsApp Pro V23.97
+  "versionName": "2.25.36.75",
+  "Msg": "GBWhatsApp Pro V25.67
 
-✅ [Fixed] Fixed an issue with device linking.
-✅ [Fixed] Permanently fixed app freezing issue.
-✅ [Fixed] Fixed duplicate search icon when hiding the new search bar on the home screen.
-➕General improvements to the mod's performance and stability.
-➕Enhanced app cloning support for better compatibility.
-🛡 [Improved] Anti-ban protection.",
-  "downloadLink": "https://youtu.be/9xuJcksiFNU"
+✅ Fixed the send message to an unsaved number feature ✉️
+✅ Fixed an issue where the admin icon did not appear next to text messages on some devices 👑
+✅ Fixed an issue where unviewed status colors did not change 🎨
+✅ Fixed an issue where the appearance of sticker bubbles and single emoji messages did not update 💬😀.",
+  "downloadLink": "https://youtu.be/8b-yh3YNTO0"
 }
