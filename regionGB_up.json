@@ -1,22 +1,12 @@
 {
-  "regionGB_up": [
-    {
- "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗟𝗔𝗧𝗘𝗦𝗧
-𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 - 𝘃𝟮𝟮.𝟮𝟲",
- "title":"Aero Sudah Terbaru",
- "description":"WhatsApp Base:  2.25.15.80
+  "versionCode": 2147483647,
+  "versionName": "2.26.17.73",
+  "Msg": "GBWhatsApp Pro V26.77
 
-🛠 [Fixed] the problem where fingerprint was requested twice when locking WhatsApp.
-🛠 [Fixed] the issue where the profile picture was not hidden from the home screen.
-🛠 [Fixed] the issue where the search icon did not appear in the Status and Calls tabs when the new search bar was enabled on the home screen.
-🛠 [Fixed] the inability to change the notification bar background color and navigation bar background color in chats, groups, or channels.
-🛠 [Fixed] the issue preventing downloading and changing emoji styles.
- Stability and performance improvements.
- [More] other new features. Enjoy and discover what's new for yourself!
+📝 More Freedom to Express Yourself! The character limit for the new status updates has been significantly increased!
+Instead of just 50 characters, you can now write a status of up to 500 characters ✍️🔥
 
-🔗 More fixes and other improvements.
- ",
-"download":"https://youtu.be/3oa2c3CcSXE"
-}
-  ]
+📇 New icons for easier navigation! 📲 We've added icons next to options on the main screen and in the 
+chat screen, allowing you to navigate between choices faster and more easily. ⚡️.",
+  "downloadLink": "https://www.regionmod.com/2026/06/gbwhatsapp-fixlink.html"
 }
